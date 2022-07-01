@@ -1,2 +1,0 @@
-# photosava
-Files jpeg jpg
